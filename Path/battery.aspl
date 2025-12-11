@@ -1,0 +1,1 @@
+PRINT("The battery percentage is: !battery!")
